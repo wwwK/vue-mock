@@ -3,3 +3,4 @@
 > * cd vue-mock
 > * npm install
 > * npm run dev
+#### [阅读文章](https://zhuanlan.zhihu.com/p/30354374)
