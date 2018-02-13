@@ -141,4 +141,5 @@ methods: {
 效果预览
 
 ![WX20171022-2146143@2x.png](https://pic3.zhimg.com/80/v2-3f1d8a12a3821d5c3487e667c9a23ae5_hd.jpg)
+
 ###[线上预览地址](https://zhouyupeng.github.io/mock-vue/#/list2)
