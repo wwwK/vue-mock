@@ -5,7 +5,7 @@
 > * npm run dev
 
  
-* ###搭建一个vue项目
+* ### 搭建一个vue项目
 ```javascript
 # 全局安装 vue-cli
 $ npm install --global vue-cli
@@ -15,17 +15,17 @@ $ cd my-project
 # 安装依赖
 $ npm install
 ```
-* ###安装mockjs
+* ### 安装mockjs
 >npm install mockjs --save-dev
 
-* ###开启项目
+* ### 开启项目
 >npm run dev
-* ####创建一个mockjs文件夹以及mockjs,并且在main.js引入这个文件
+* #### 创建一个mockjs文件夹以及mockjs,并且在main.js引入这个文件
 此时可以看到像这样的一个项目结构
 
 ![QQ20171022-195122@2x.png](https://pic2.zhimg.com/80/v2-a8422770183c9da3bc60e2bf1fc28780_hd.jpg)
 
-* ###mockjs的使用
+* ### mockjs的使用
 在项目中的mock.js文件中，写入模拟的数据，此时我们可以参照一下[mockjs](https://github.com/nuysoft/Mock/wiki)的文档。
 ```javascript
 // 使用 Mock
@@ -80,7 +80,7 @@ methods: {
 效果预览
 
 ![WX20171022-2134561@2x.png](https://pic4.zhimg.com/80/v2-9707d510e439f19023b4fed2990b25d7_hd.jpg)
-###[线上预览地址](https://zhouyupeng.github.io/mock-vue/#/)
+### [线上预览地址](https://zhouyupeng.github.io/mock-vue/#/)
 
 再做一个删除的处理
 模拟数据
@@ -142,4 +142,4 @@ methods: {
 
 ![WX20171022-2146143@2x.png](https://pic3.zhimg.com/80/v2-3f1d8a12a3821d5c3487e667c9a23ae5_hd.jpg)
 
-###[线上预览地址](https://zhouyupeng.github.io/mock-vue/#/list2)
+### [线上预览地址](https://zhouyupeng.github.io/mock-vue/#/list2)
